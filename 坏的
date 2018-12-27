@@ -1,0 +1,5 @@
+#include<iostream>
+int main()
+{
+  print（"printf("world")"\n）;
+}
